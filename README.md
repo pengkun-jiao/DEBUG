@@ -1,7 +1,7 @@
 
 # DEBUG
 
-Code for the paper "Domain Expansion and Boundary Growth for Open-Set Single-Source Domain Generalization"
+Code for the paper "[Domain Expansion and Boundary Growth for Open-Set Single-Source Domain Generalization](https://arxiv.org/pdf/2411.02920)"
 
 ![Framework](https://github.com/pengkun-jiao/DEBUG/blob/main/images/debug_framework.png)
 
